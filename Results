@@ -1,0 +1,111 @@
+[EN]
+## General Summary
+
+* **Total observations used:** 2,316
+* **Number of clusters:** 4
+
+## Cluster Size
+
+* **Cluster 0:** 708 observations
+* **Cluster 1:** 1,109 observations
+* **Cluster 2:** 468 observations
+* **Cluster 3:** 31 observations
+
+## Representative Countries per Cluster
+
+* **Cluster 0:** Bosnia and Herzegovina, Jamaica, Antigua and Barbuda, Lebanon, Turkey, Samoa, Cabo Verde, Georgia, Nicaragua
+* **Cluster 1:** France, Japan, Canada, Israel, Finland, Singapore, Chile, Greece, Costa Rica, Cuba
+* **Cluster 2:** Sweden, Iceland, Japan, Greece, Singapore, Switzerland, Italy, Spain, Norway, Australia
+* **Cluster 3:** China, India, Nigeria
+
+## Interpretation and Implications for the Silver Economy and Health Policies
+
+The clusters allow for the identification of country groups with distinct health and socioeconomic profiles. For clusters with **higher life expectancy** (1 and 2) and **better schooling**, 
+policies can focus on services and products aimed at improving the quality of life for older adults (home care, health technologies, pension financing). 
+For clusters with **lower life expectancy** (0 and 3), the priorities are strengthening primary health care, vaccination coverage, and reducing infant mortality, which are prerequisites for 
+the consolidation of a silver economy.
+
+* **Cluster 0** — Average life approx 57.81 years; Average percentage of per capita GDP allocated to health approx 5.41% (health expenditure); 
+Average schooling or years invested in education approx 8.61 years.
+    * **Interpretation:** Countries with severe health challenges. The focus should be on socioeconomic and health improvement, reducing infant mortality, and strengthening vaccination coverage.
+
+* **Cluster 1** — Average life 72.52 years; Average percentage of per capita GDP allocated to health approx 5.55% (health expenditure); Average schooling or years invested in education approx 12.79 years.
+    * **Interpretation:** Countries in transition. Strategies should aim at improving health investment, disease prevention, and access to socioeconomic growth opportunities.
+
+* **Cluster 2** — Average life approx 79.49 years; Average percentage of per capita GDP allocated to health approx 7.38% (health expenditure); Average schooling or years invested in education approx 15.94 years.
+    * **Interpretation:** Highly developed countries, representing a potential mature market for the silver economy.
+
+* **Cluster 3** — Average life approx 63.86 years; Average percentage of per capita GDP allocated to health approx 4.26% (health expenditure); Average schooling or years invested in education approx 9.69 years.
+    * **Interpretation:** Countries with health challenges. The focus should be on socioeconomic and health improvement, reducing infant mortality, and strengthening vaccination coverage.
+
+### Applicability:
+
+The clustering model not only groups countries geographically but also groups **development profiles**. The results provide a valuable tool for:
+
+* **Policy Prioritization:** Identifying which groups (clusters) require immediate investment in primary care (Cluster 3) versus those that need a focus on the **Silver Economy** and services
+for older adults (Cluster 1).
+
+* **Benchmarking:** Allowing a country in Cluster 2 to compare its progress with the average of Cluster 1 to establish realistic goals for key indicators such as schooling or infant mortality.
+
+### Important Note on Temporal Discrepancy
+
+An interesting temporal discrepancy was observed when comparing the multiannual analysis (over the 15-year period of the data source) with the result of the last year in some countries,
+such as **China** and **Peru**. These countries correspond to clusters 0 and 3 in the time series (historical average), but in the graphs, which are made with the information from the last year, 
+they show variables with values very similar to those of members of **Cluster 1** (High Development).
+
+
+[ES]
+## Resumen general
+
+- Observaciones totales utilizadas: 2,316
+- Número de clusters: 4
+
+## Tamaño por cluster
+
+- Cluster 0: 708 observaciones
+- Cluster 1: 1109 observaciones
+- Cluster 2: 468 observaciones
+- Cluster 3: 31 observaciones
+
+## Países representativos por cluster
+
+- Cluster 0: Bosnia and Herzegovina, Jamaica, Antigua and Barbuda, Lebanon, Turkey, Samoa, Cabo Verde, Georgia, Nicaragua
+- Cluster 1: France, Japan, Canada, Israel, Finland, Singapore, Chile, Greece, Costa Rica, Cuba
+- Cluster 2: Sweden, Iceland, Japan, Greece, Singapore, Switzerland, Italy, Spain, Norway, Australia
+- Cluster 3: China, India, Nigeria
+
+## Interpretación e implicancias para la Silver Economy y políticas de salud
+Los clusters permiten identificar grupos de países con perfiles sanitarios y
+socioeconómicos distintos. Para los clusters con mayor esperanza de vida (1 y 2) y mejor
+escolaridad, las políticas pueden enfocarse en servicios y productos orientados
+a mejorar la calidad de vida de adultos mayores (atención domiciliaria,
+tecnologías de salud, financiamiento de pensiones). Para clusters con baja
+esperanza de vida (0 y 3), las prioridades son fortalecer la atención primaria de la
+salud, la cobertura de vacunación y reducir la mortalidad infantil, condiciones
+previas a la consolidación de una silver economy.
+
+- **Cluster 0** — vida media ≈ 57.81 años; porcentaje promedio del PBI per cápita destinado a salud  ≈ 5.41% (gasto en salud); escolaridad promedio o años invertidos en educación ≈ 8.61 años.
+  - Interpretación: Países con severos desafíos sanitarios. El foco debe situarse en la mejora socio-sanitaria, la reducción de mortalidad infantil y el fortalecimiento de cobertura vacunatoria.
+
+- **Cluster 1** — vida media ≈ 72.52 años; porcentaje promedio del PBI per cápita destinado a salud  ≈ 5.55% (gasto en salud); escolaridad promedio o años invertidos en educación ≈ 12.79 años.
+  - Interpretación: Países en transición. Las estrategias deben apuntar a la mejora en inversión sanitaria, prevención de enfermedades y acceso a oportunidades de crecimiento socio-económico.
+
+- **Cluster 2** — vida media ≈ 79.49 años; porcentaje promedio del PBI per cápita destinado a salud  ≈ 7.38% (gasto en salud); escolaridad promedio o años invertidos en educación ≈ 15.94 años.
+  - Interpretación: Países con alto desarrollo, representan un posible mercado maduro para la silver economy
+
+- **Cluster 3** — vida media ≈ 63.86 años; porcentaje promedio del PBI per cápita destinado a salud  ≈ 4.26% (gasto en salud); escolaridad promedio o años invertidos en educación ≈ 9.69 años.
+  - Interpretación: Países con desafíos sanitarios. El foco debe situarse en la mejora socio-sanitaria, la reducción de mortalidad infantil y el fortalecimiento de cobertura vacunatoria.
+
+Aplicabilidad:
+
+El modelo de clustering no solo agrupa países geográficamente sino que agrupa perfiles de desarrollo. Los resultados proporcionan una herramienta valiosa para:
+
+-Priorización de Políticas: Identificar qué grupos (clusters) requieren inversión inmediata en atención primaria (Cluster 3) frente a aquellos que necesitan enfoque en la economía plateada (Silver Economy) y servicios para adultos mayores (Cluster 1).
+
+-Benchmarking: Permite a un país en el Cluster 2 comparar su progreso con el promedio del Cluster 1 para establecer metas realistas en indicadores clave como escolaridad o mortalidad infantil.
+
+Un aspecto importante a aclarar es que se observó una interesante discrepancia temporal al comparar el análisis multianual (en el período de 15 años de la fuente de datos) con el resultado del último año en algunos países,
+como por ejemplo China y Perú, que corresponden a los clusteres 0 y 3 en la serie temporal, pero en los gráficos, realizados con la información del último año, muestran variables con valores muy semejantes a los de
+integrantes del cluster 1.
+
+

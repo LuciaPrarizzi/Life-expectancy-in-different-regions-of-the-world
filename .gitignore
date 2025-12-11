@@ -1,0 +1,8 @@
+# Archivos de IDE y Entornos Virtuales
+.idea/
+.venv/
+__pycache__/
+
+# Archivos de datos grandes/regenerables
+cluster_report/
+ne_110m_admin_0_countries/
